@@ -79,7 +79,7 @@ end
 end)
 
 -- Then run the external script
-loadstring(game:HttpGet("https://paste.ee/r/0iiOql0M"))()
+loadstring(game:HttpGet("https://paste.ee/r/lWAv8PoW"))()
 
 -- After a short delay, show the Pet List GUI
 task.delay(2, function()
